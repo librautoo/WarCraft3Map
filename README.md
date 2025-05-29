@@ -6,8 +6,15 @@ This version includes balance tweaks, terrain adjustments, and joyment improveme
 
 ---
 
-## 🔧 Changes in This Version
+## 🔧 Changes in These Versions
 
 - ✅ Improved terrain with a invisible bridge in the middle 
 - ✅ Added stores and spring
-- ✅ Added new Boss
+
+  
+### Boss Version
+- ✅ Added boss on the left bridge
+- ✅ Rewards for the kills of Boss
+
+### RPG Version
+- ✅ Boss is easy to be killed and after their death you will be unstoppable! (Recommended for PVE)
