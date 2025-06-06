@@ -13,4 +13,4 @@ This version includes balance tweaks, terrain adjustments, and joyment improveme
 
   
 ### RPG Version
-- ✅ SuperHero is easy to be killed and after their death you will be unstoppable! (Recommended for PVE)
+- ✅ SuperHero is easy to be killed and after their death you will be gifted! (Recommended for PVE)
