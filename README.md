@@ -1,9 +1,10 @@
 # Objects Data are listed!!
 
+- 💡 All heroes and units data are included here
 ---
 
 # Triggers including automatic strong monster deployment is added
--⚠️ Since my friend and I only use specific color pink and cyan, I did not set complex loop to check each player whether is real person or Bot
+- ⚠️ Since my friend and I only use specific color pink and cyan, I did not set complex loop to check each player whether is real person or Bot
 
 ---
 
