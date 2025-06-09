@@ -4,7 +4,8 @@
 ---
 
 # Triggers
-- ⚠️ Since my friend and I only use specific color pink and cyan, I did not set complex loop to check each player whether is real person or Bot
+- ⚠️ Be careful that Brown Color and Red Color Player (Or Bot) will be reinforced by strong wild monsters!!!
+- ⚠️ Since my friend and I only use specific color pink and cyan, I did not set complex loop to check each player whether is real person or Bot and this means except for pink and cyam player and all others when training always get 2 free units!!!
 
 ---
 
