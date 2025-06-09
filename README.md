@@ -1,14 +1,14 @@
-# Objects Data are listed!!
+# Objects
 
 - 💡 All heroes and units data are included here
 ---
 
-# Triggers including automatic strong monster deployment is added
+# Triggers
 - ⚠️ Since my friend and I only use specific color pink and cyan, I did not set complex loop to check each player whether is real person or Bot
 
 ---
 
-# Below is map info
+# Map
 
 ## 1. HellSplitter
 
