@@ -6,7 +6,7 @@
 ---
 
 # Triggers
-- ⚠️ Be careful that Player 11 and Player 12 will be reinforced by strong wild monsters!!! (For some reasons from my editor I found that the index of player is only related to the rank of position in the room not color!!!)
+- ⚠️ Be careful that Player 11 and Player 12 will be reinforced by strong wild monsters!!! (From my editor I found that the index of player is only related to the rank of position in the room not the color so do not be confused by the color in the parenthesis!!!)
 - ⚠️ I did not set complex loop to check each player whether is real person or Bot and this means except for player 1 and 2 all others when training always get 2 free units!!!
 
 ---
