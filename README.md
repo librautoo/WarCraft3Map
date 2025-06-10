@@ -6,7 +6,7 @@
 ---
 
 # Triggers
-- ⚠️ Be careful that Player 10 and Player 11 will be reinforced by strong wild monsters!!! (From testing I found that the index of player is only related to the rank of entering room not the color so do not be confused by the color in the parenthesis in the editor!!!)
+- ⚠️ Be careful that Player 10 and Player 11 will be reinforced by strong wild monsters!!! (From testing I found that the index of player is only related to the rank of position in the room not the color so do not be confused by the color in the parenthesis in the editor!!!)
 - ⚠️ Enemies of player 2 when training always get 2 free units!!!
 - 💡 All triggers are included [here](https://github.com/librautoo/WarCraft3Map/tree/main/Triggers)
 
