@@ -47,4 +47,4 @@ A custom-edited version of the Warcraft III map [12 Chimney Isles](https://www.h
 
   
 ### RPG Version
-- ✅ SuperHero is easy to be killed and after their death you will be gifted! (Recommended for PVE)
+- ✅ SuperHeroes are gifted! (Recommended for PVE)
