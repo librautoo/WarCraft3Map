@@ -1,13 +1,13 @@
 😄 **All for PVE RPG!**
 
 # Objects
-
+- ✅ To fight against the fortified AI players are born with 宇豪 and 老赵 (Two customized groups of heroes)
 - 💡 All heroes and units data are included [here](https://github.com/librautoo/WarCraft3Map/tree/main/Objects)
 ---
 
 # Triggers
-- ⚠️ Be careful that Player 10 and Player 12 will be reinforced by strong wild monsters!!! (From testing I found that the index of player is only related to the rank of position in the room not the color so do not be confused by the color in the parenthesis in the editor!!!)
-- ⚠️ Enemies of player 1 when training always get 2 free units!!!
+- ⚠️ Be careful that random AI player will be reinforced by strong wild monsters!!! (From testing I found that the index of player is only related to the rank of position in the room not the color so do not be confused by the color in the parenthesis in the editor!!!)
+- ⚠️ Enemies of player 1(Which is supposed to be a real player) when training always get 2 free units!!!
 - 💡 All triggers are included [here](https://github.com/librautoo/WarCraft3Map/tree/main/Triggers)
 
 ---
