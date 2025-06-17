@@ -7,7 +7,7 @@
 
 # Triggers
 - ⚠️ Be careful that random AI player will be reinforced by strong wild monsters!!! (From testing I found that the index of player is only related to the rank of position in the room not the color so do not be confused by the color in the parenthesis in the editor!!!)
-- ⚠️ Enemies of player 1(Which is supposed to be a real player) when training always get 2 free units!!!
+- ⚠️ Enemies of player 1 (Which is supposed to be a real player) when training always get 2 free units!!!
 - 💡 All triggers are included [here](https://github.com/librautoo/WarCraft3Map/tree/main/Triggers)
 
 ---
